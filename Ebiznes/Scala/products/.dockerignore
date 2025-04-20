@@ -1,0 +1,7 @@
+target/
+project/
+dist/
+logs/
+.idea/
+*.iml
+*.log
