@@ -1,0 +1,35 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /pub/databases/chembl/ChEMBLdb/latest</title>
+ </head>
+ <body>
+<h1>Index of /pub/databases/chembl/ChEMBLdb/latest</h1>
+  <table>
+   <tr><th valign="top"><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=D">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr>
+   <tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="/icons/back.gif" alt="[PARENTDIR]"></td><td><a href="/pub/databases/chembl/ChEMBLdb/">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="LICENSE">LICENSE</a></td><td align="right">2025-09-19 12:27  </td><td align="right"> 21K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/hand.right.gif" alt="[   ]"></td><td><a href="README">README</a></td><td align="right">2025-09-19 14:43  </td><td align="right">3.5K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="REQUIRED.ATTRIBUTION">REQUIRED.ATTRIBUTION</a></td><td align="right">2025-09-19 14:46  </td><td align="right">733 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="checksums.txt">checksums.txt</a></td><td align="right">2025-09-19 14:40  </td><td align="right">790 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="chembl_36.fa.gz">chembl_36.fa.gz</a></td><td align="right">2025-09-19 14:44  </td><td align="right">4.5M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="chembl_36.fps.gz">chembl_36.fps.gz</a></td><td align="right">2025-09-19 14:47  </td><td align="right">171M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="chembl_36.h5">chembl_36.h5</a></td><td align="right">2025-09-19 14:41  </td><td align="right">309M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="chembl_36.sdf.gz">chembl_36.sdf.gz</a></td><td align="right">2025-09-19 14:46  </td><td align="right">893M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="chembl_36_bio.fa.gz">chembl_36_bio.fa.gz</a></td><td align="right">2025-09-19 14:44  </td><td align="right">216K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="chembl_36_blast.fa.gz">chembl_36_blast.fa.gz</a></td><td align="right">2025-09-19 14:46  </td><td align="right">4.6M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="chembl_36_chemreps.txt.gz">chembl_36_chemreps.txt.gz</a></td><td align="right">2025-09-19 14:41  </td><td align="right">274M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="chembl_36_hmmr.fa.gz">chembl_36_hmmr.fa.gz</a></td><td align="right">2025-09-19 14:44  </td><td align="right">4.6M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="chembl_36_monomer_library.xml">chembl_36_monomer_library.xml</a></td><td align="right">2025-09-19 14:49  </td><td align="right">3.7M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="chembl_36_mysql.tar.gz">chembl_36_mysql.tar.gz</a></td><td align="right">2025-09-19 14:42  </td><td align="right">1.9G</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="chembl_36_postgresql.tar.gz">chembl_36_postgresql.tar.gz</a></td><td align="right">2025-09-19 14:45  </td><td align="right">1.9G</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="chembl_36_release_notes.txt">chembl_36_release_notes.txt</a></td><td align="right">2025-09-19 16:12  </td><td align="right"> 27K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="chembl_36_schema.png">chembl_36_schema.png</a></td><td align="right">2025-09-19 16:12  </td><td align="right">6.7M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="chembl_36_sqlite.tar.gz">chembl_36_sqlite.tar.gz</a></td><td align="right">2025-09-19 14:50  </td><td align="right">5.2G</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="chembl_uniprot_mapping.txt">chembl_uniprot_mapping.txt</a></td><td align="right">2025-09-19 14:46  </td><td align="right">1.1M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="schema_documentation.html">schema_documentation.html</a></td><td align="right">2025-09-19 14:43  </td><td align="right">116K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="schema_documentation.txt">schema_documentation.txt</a></td><td align="right">2025-09-19 14:43  </td><td align="right"> 95K</td><td>&nbsp;</td></tr>
+   <tr><th colspan="5"><hr></th></tr>
+</table>
+</body></html>
